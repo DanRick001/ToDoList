@@ -1,1 +1,1 @@
-# ToDoList
+Enter the name of the task in the console to delete it
